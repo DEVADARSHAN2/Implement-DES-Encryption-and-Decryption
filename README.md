@@ -1,4 +1,4 @@
-# Implement-DES-Encryption-and-Decryption
+# Ex-7 -Implement-DES-Encryption-and-Decryption
 ## AIM:
 To write a program to implement Data EncrypƟon Standard (DES).
 
